@@ -1,2 +1,2 @@
 # DataCamp-
-This repository stores my learning path in DataCamp, including the projects I completed using Python, R and SQL
+This repository stores the projects I have completed in DataCamp website, including Python, R and SQL
